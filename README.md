@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @RogueStar112
+- 👋 Hi, I’m Demie.
+
+![Demie Mistica Banner](https://github.com/RogueStar112/RogueStar112/assets/97138925/72980403-8205-4489-840b-20c07a85c22d)
 
 - 👀 I’m interested in coding, maths, game development and more
 
