@@ -4,11 +4,9 @@
 
 - 👀 I’m interested in coding, maths, game development and more
 
-- 🌱 I’m currently learning 
-
-- 💞️ I’m looking to collaborate on ...
-
-- 📫 How to reach me ...
+- 🌱 I’m currently developing two major projects.
+Checkout [MyNutrition](https://github.com/RogueStar112/MyNutrition)
+and [MyBudget](https://github.com/RogueStar112/MyBudget-May2024)
 
 <!---
 RogueStar112/RogueStar112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
