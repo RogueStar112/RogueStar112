@@ -1,13 +1,14 @@
-- 👋 Hi, I’m Demie.
-
 ![Demie Mistica Banner](https://github.com/RogueStar112/RogueStar112/assets/97138925/72980403-8205-4489-840b-20c07a85c22d)
 
-- 👀 I’m interested in coding, maths, game development and more
+## Welcome to my realm!
+
+- 👀 I’m interested in making websites that make a meaningful impact to people's daily lives. Examples include nutrition and budget tracking. 
 
 - 🌱 I’m currently developing two major projects.
 Checkout [MyNutrition](https://github.com/RogueStar112/MyNutrition)
 and [MyBudget](https://github.com/RogueStar112/MyBudget-May2024)
 
+- Also checkout my [portfolio website](demie-mistica.com). I make [blog articles](https://www.demie-mistica.com/#blog) there from time to time too!
 <!---
 RogueStar112/RogueStar112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
