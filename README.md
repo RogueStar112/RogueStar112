@@ -2,7 +2,7 @@
 
 ## Welcome to my realm!
 
-[![RogueStar112's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogueStar112)](https://github.com/anuraghazra/github-readme-stats)
+[![RogueStar112's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogueStar112&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👀 I’m interested in making websites that make a meaningful impact to people's daily lives. Examples include nutrition and budget tracking. 
 
